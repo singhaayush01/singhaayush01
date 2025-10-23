@@ -79,18 +79,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=singhaayush01&show_icons=true&count_private=true&hide_title=true" alt="Aayush's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhaayush01&layout=compact&hide_title=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=singhaayush01" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🗓️ What I’m Focusing On
 - Leveling up **LeetCode** + systems fundamentals  
 - Intermediate **Transformer/RL** project for resume impact  
