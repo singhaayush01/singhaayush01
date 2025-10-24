@@ -1,6 +1,6 @@
 <!-- Profile Banner (optional). Upload your banner to this repo as banner.png and update the src) -->
 <p align="center">
-  <img src="banner.png" alt="Aayush Kumar Singh — Software Developer & ML Enthusiast" width="100%" />
+  <img src="Abstract Technology Profile LinkedIn Banner.png" alt="Aayush Kumar Singh — Software Developer & ML Enthusiast" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Aayush Kumar Singh 👋</h1>
@@ -26,7 +26,7 @@
 ## 🚀 About Me
 - CS Senior (Math minor) aiming for **Software Engineer / ML Engineer** roles  
 - Currently working on **Reinforcement Learning** and **Transformer** projects  
-- Interested in **ethical GenAI** and real-world impact in healthcare/education
+- Interested in Machine learning and React projects
 
 ---
 
