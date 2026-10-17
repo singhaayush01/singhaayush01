@@ -20,9 +20,6 @@
   <a href="./Aayush_Kumar_Singh_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=singhaayush01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ---
 
@@ -122,13 +119,5 @@ A Mario-playing agent using Dueling Double DQN, image preprocessing, and multith
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=singhaayush01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhaayush01&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
 
 <p align="center"><i>Learn it. Build it. Ship it.</i> 🚢</p>
